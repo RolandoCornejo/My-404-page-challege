@@ -36,7 +36,7 @@
 
 ## Overview
 
-Hi! I'm Rolando. My experience making my take on this challenche was fun, I already knew a bit about front end development, but I started to learn React and wanted to practice, ngl I preffered this challenge insted of the ones I had where I'm learning. Anyways, I refreshed my css and html knowledge and applied the things I've learned about React. I'm looking forward to making more complex web apps and websites  and excited to build them with React.
+Hi! I'm Rolando. My experience making my take on this challenge was fun, I already knew a bit about front end development but, I've started to learn React and wanted to practice, ngl I preffered this challenge insted of the ones I had where I'm learning. Anyways, I refreshed my css and html knowledge and applied the things I've learned about React; making this fully resposive page. I'm looking forward to making more complex web apps and websites and I'm excited to build them with React.
 
 <h4 align="center">On desktop</h4>
 
