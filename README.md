@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://nostalgic-ptolemy-e0483a.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://github.com/RolandoCornejo/My-404-page-challege">
       Challenge
     </a>
   </h3>
@@ -36,20 +36,24 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Hi! I'm Rolando. My experience making my take on this challenche was fun, I already knew a bit about front end development, but I started to learn React and wanted to practice, ngl I preffered this challenge insted of the ones I had where I'm learning. Anyways, I refreshed my css and html knowledge and applied the things I've learned about React. I'm looking forward to making more complex web apps and websites  and excited to build them with React.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+<h4 align="center">On desktop</h4>
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![On desktop](https://github.com/RolandoCornejo/My-404-page-challege/blob/master/Screenshot_20201024_231930.png?raw=true)
+
+<h4 align="center">On mobile</h4>
+
+![On mobile](https://github.com/RolandoCornejo/My-404-page-challege/blob/master/WhatsApp%20Image%202020-10-24%20at%2011.18.11%20PM.jpeg?raw=true)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+
+### Hosted on
+- [Netlify](https://www.netlify.com/)
 
 ## Features
 
@@ -64,8 +68,10 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+- [People from the Stack Overflow comunity](https://stackoverflow.com/)
+- [Guide on responsive responsive web design basics](https://web.dev/responsive-web-design-basics/#media-queries)
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@RolanCT](https://{twitter.com/RolanCT})
+- GitHub [@RolandoCornejo](https://github.com/RolandoCornejo)
+- Twitter [@RolanCT](https://twitter.com/RolanCT)
