@@ -1,0 +1,104 @@
+body {
+  margin-left: 6%;
+  padding: 0;
+  font-family: "Space Mono", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 766px) {
+  .code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  .body {
+    display: inline-flex;
+  }
+  .button {
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1vw;
+    border: none;
+    padding: 2vh 3vw;
+  }
+  .title {
+    font-size: 3vw;
+    font-weight: 700;
+    color: #333333;
+  }
+  .content {
+    font-size: 2vw;
+    color: #4f4f4f;
+  }
+  .App-footer {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 1vw;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  .Image {
+    width: 40vw;
+  }
+
+  .App-header {
+    font-weight: 700;
+  }
+  .text {
+    width: 40vw;
+    margin-left: 5vw;
+  }
+}
+
+@media (max-width: 765px) {
+  .code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  .body {
+    display: inline-block;
+    padding-bottom: 1vh;
+  }
+
+  .button {
+    background-color: #333333;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 3vw;
+    border: none;
+    padding: 2.5vh 6vw;
+  }
+  .title {
+    font-size: 8vw;
+    font-weight: 700;
+    color: #333333;
+  }
+  .content {
+    font-size: 4vw;
+    color: #4f4f4f;
+  }
+  .App-footer {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 2.5vw;
+    text-align: center;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  .Image {
+    width: 90vw;
+  }
+  .text {
+    width: 100%;
+    margin-left: 0vw;
+  }
+  .App-header {
+    font-weight: 700;
+  }
+}
